@@ -20,3 +20,6 @@ Terraform is an open-source infrastructure as code (IaC) tool that enables you t
 ⁕ Apply Changes: Use terraform apply to create or modify resources in AWS as defined in your configuration.
 
 ⁕ Manage Resources: Terraform tracks resource state using a state file, allowing you to manage lifecycle events (create, update, delete) across multiple deployments.
+
+
+NOTE :- This IaC approach helps automate infrastructure deployment, ensures consistency, and supports collaboration across teams.
