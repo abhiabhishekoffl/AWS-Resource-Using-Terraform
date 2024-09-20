@@ -1,4 +1,5 @@
-# AWS-Terraform
+# AWS-Resources-Using-Terraform
+
 Resources describe infrastructure objects in Terraform configurations.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
