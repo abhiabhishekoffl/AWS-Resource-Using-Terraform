@@ -7,6 +7,7 @@ Resources describe infrastructure objects in Terraform configurations.
 
 Terraform is an open-source infrastructure as code (IaC) tool that enables you to define and manage AWS resources using declarative configuration files. By writing configuration files in HashiCorp Configuration Language (HCL), you can specify the desired state of your AWS infrastructure. Terraform automates the process of creating, updating, and deleting AWS resources like EC2 instances, VPCs, S3 buckets, RDS databases, and more.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ※ The process typically involves the following steps:
 
